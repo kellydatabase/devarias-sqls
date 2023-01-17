@@ -1,0 +1,1 @@
+# repositório referente a scripts devaria sqls
